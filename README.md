@@ -1,2 +1,9 @@
-# repositorytemplate
-This is a template repo to use for new projects that 
+# README.md
+
+This codebase is a prototype.
+
+## Codebase objectives
+
+## Relevant policy
+
+## Style guide
