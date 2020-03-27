@@ -11,7 +11,7 @@ The Standard for Public Code does this by:
 The Standard for Public Code is meant to be time and technology independent.
 
 
-## About the Standard for Public Code
+## About the Foundation for Public Code
 
 The Standard for Public Code was created by the [Foundation for Public Code](https://publiccode.net/). We help public organizations share and adopt open source software, build sustainable developer communities and create a thriving ecosystem for public code. 
 
