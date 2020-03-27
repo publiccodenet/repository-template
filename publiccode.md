@@ -1,6 +1,12 @@
 # Standard for Public Code compliance
 
-This repository is set up to comply with the [Standard for Public Code](https://standard.publiccode.net/). Potential users of codebases tested against the Standard for Public Code can expect them to be highly reusable, easily maintainable and of high quality.
+This repository is set up to comply with the [Standard for Public Code](https://standard.publiccode.net/). It's based on a freely available [repository template](https://github.com/publiccodenet/repositorytemplate) created by the Foundation for Public Code.
+
+The template repository contains template documents (like README, CONTRIBUTING and LICENCE) and in-line guidance on how to configure these for your project.
+
+## About the Standard for Public Code
+
+Meeting the Standard for Public Code helps codebases become highly reusable, easily maintainable and of high quality.
 
 The Standard for Public Code does this by:
 
@@ -9,7 +15,6 @@ The Standard for Public Code does this by:
 * providing guidance on how to fulfill its criteria and operationalize compliance
 
 The Standard for Public Code is meant to be time and technology independent.
-
 
 ## About the Foundation for Public Code
 
