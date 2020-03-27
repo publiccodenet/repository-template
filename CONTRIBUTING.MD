@@ -4,8 +4,8 @@ We welcome new contributors!
 
 Please:
 
-- contribute [by making pull requests](https://github.com/publiccodenet/repositorytemplate/pulls)
-- give us feedback by [raising an issue](https://github.com/publiccodenet/repositorytemplate/issues)
+- contribute [by making pull requests](https://github.com/publiccodenet/repository-template/pulls)
+- give us feedback by [raising an issue](https://github.com/publiccodenet/repository-template/issues)
 
 ## How to get involved
 
