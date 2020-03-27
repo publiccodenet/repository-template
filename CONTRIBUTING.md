@@ -1,6 +1,6 @@
 # CONTRIBUTING
 
-We welcome new contributors!
+Welcome, new contributors!
 
 Please:
 
